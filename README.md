@@ -1,2 +1,2 @@
-# 1-Day-VaR
-1 Day VaR for ETH and XRP
+# 1 Day VaR for ETH and XRP
+This script calculates the 1-day Value at Risk (VaR) for a portfolio consisting of Ethereum (ETH) and Ripple (XRP) in equal weightage based on historical price data. The process includes downloading price data, calculating returns, generating correlated random variables, and simulating future portfolio values. It estimates the 1-day VaR at different confidence levels (99%, 99.9%, and 99.99%) using Monte Carlo simulations. The results are visualized with a histogram and a vertical line marking the 99% VaR. The portfolio risk is expressed in terms of potential daily value changes.
